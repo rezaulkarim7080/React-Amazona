@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.responsive-nav{
+
+  @apply p-4 text-center border-b border-b-[#ffffff];
+}
